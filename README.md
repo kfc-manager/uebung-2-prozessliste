@@ -42,3 +42,7 @@ Beachten Sie dabei:
 - Alle Fehler- und Warnungsmeldungen müssen auf dem Fehlerausgabekanal (stderr) ausgegeben werden.
 
 - Geben Sie allen allozierten Speicher zum Programmende wieder frei!
+
+Beispiel für Programmaufruf und Ausgabe:
+
+![alt text](https://github.com/kfc-manager/uebung-2-prozessliste/blob/main/Screenshot.png?raw=true)
